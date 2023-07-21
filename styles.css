@@ -5,6 +5,7 @@
     --primary-color:#A192E4;
     --dark-grey:#6B7280;
     --section-color:#d1d5db;
+    margin: 0px;
 }
 
 body{
@@ -87,6 +88,7 @@ hr{
 }
 
 .hero .hero-heading{
+    text-align: center;
     color: var(--dark-grey);
 }
 
@@ -114,9 +116,12 @@ hr{
     color: white;
     background-color: var(--primary-color);
     border-bottom-right-radius: 0.5rem;
-    padding-inline-start: 0px;
 }
 
 .footer .link{
     color: white;
+}
+
+.footer ul{
+    padding-inline-start: 0px;
 }
