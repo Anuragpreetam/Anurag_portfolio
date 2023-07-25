@@ -32,6 +32,10 @@ hr{
     padding: 0.5rem 1rem;
 }
 
+.links-inline{
+    display: inline;
+}
+
 .link-primary{
     background-color: var(--primary-color);
     border-radius: 0.5rem;
