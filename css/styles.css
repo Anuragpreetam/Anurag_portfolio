@@ -132,8 +132,12 @@ hr{
     border-top-right-radius: 0.5rem;
 }
 
+.footer .footer-header{
+    font-weight: bolder;
+}
 .footer .link{
     color: white;
+    font-weight: bolder;
 }
 
 .footer ul{
