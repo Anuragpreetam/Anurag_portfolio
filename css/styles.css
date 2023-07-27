@@ -98,13 +98,13 @@ hr{
     max-width: 350px;
     margin: auto;
     display: block;
-    border: 3px solid var(--primary-color); 
+    /**border: 3px solid var(--primary-color);**/
     border-radius: 1rem;
 }
 
 .hero .hero-heading{
     text-align: center;
-    color: var(--dark-grey);
+    /**color: var(--dark-grey);**/
 }
 
 .hero .hero-heading .heading-inverted{
