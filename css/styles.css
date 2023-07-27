@@ -32,8 +32,6 @@ hr{
     padding: 0.5rem 1rem;
 }
 
-
-
 .link-primary{
     background-color: var(--primary-color);
     border-radius: 2rem;
@@ -50,6 +48,10 @@ hr{
     margin: 0.5rem;
 }
 
+.link-footer{
+    border: 0.5px solid white;
+    border-radius: 2rem;
+}
 .list-non-bullet{
     list-style: none;
 }
